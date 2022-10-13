@@ -2,7 +2,8 @@
   "name": "tzwy/module-example",
   "description": "Module example",
   "require": {
-    "magento/module-config": "101.2.*"
+    "php": "^7.2.2",
+    "magento/framework": "101.0.*"
   },
   "type": "magento2-module",
   "version": "2.0.3",
